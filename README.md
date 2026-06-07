@@ -188,11 +188,11 @@ Personal portfolio & freelance showcase. Modern stack, clean design, deployed on
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DavidPiyush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=94a3b8&ring_color=38bdf8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DavidPiyush&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569" />
+<img width="49%" src="https://github-readme-stats-davidpiyushs-projects.vercel.app/api?username=DavidPiyush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=94a3b8&ring_color=38bdf8" alt="GitHub Stats"/> 
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPiyush&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DavidPiyush&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=475569" alt="GitHub Streak" />
 
+<img width="40%" src="https://github-readme-stats-davidpiyushs-projects.vercel.app/api/top-langs/?username=DavidPiyush&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Language"/>
 </div>
 
 ---
