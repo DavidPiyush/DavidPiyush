@@ -284,7 +284,7 @@ Personal portfolio & freelance showcase. Modern stack, clean design, deployed on
 
 <div align="center">
 
-![Snake animation](https://github.com/DavidPiyush/DavidPiyush/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/DavidPiyush/DavidPiyush/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
